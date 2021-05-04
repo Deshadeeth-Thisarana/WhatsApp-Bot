@@ -139,7 +139,7 @@ async function handler(id) {
         } else {
             var out = ({
                 mute: false,
-                msg: `*✋ Wait*\n\nPlease wait until I will get back to Online, Kindly don't send another message.`
+                msg: `*Uvindu Bro WhatsApp Bot*\n\n*✋ Wait*\nPlease wait until I will get back to Online, Kindly don't send another message.`
             })
             return out
         }
@@ -157,7 +157,7 @@ async function handler(id) {
             } else {
                 var out = ({
                     mute: false,
-                    msg: `*✋ Wait*\n\nPlease wait until I will get back to Online, Kindly don't send another message. You have ${read.times} warning(s).`
+                    msg: `*Uvindu Bro WhatsApp Bot*\n\n*✋ Wait*\nPlease wait until I will get back to Online, Kindly don't send another message. You have ${read.times} warning(s).`
                 })
                 return out
             }
