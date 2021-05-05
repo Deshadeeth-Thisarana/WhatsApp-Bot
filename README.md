@@ -1,17 +1,17 @@
 <h1 align="center">
-  <a href="https://github.com/TheWhatsBot/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
+  <a href="https://github.com/UvinduBro/WhatsApp-Bot"><img src="**https://telegra.ph/file/96ccad5945c18944c5f15.png**" alt="whatsbot" width="290"></a>
   <br>
 <b>Whatsbot</b>
 </h1>
 <h4 align="center">Moduler Userbot for Whatsapp</h4>
 <br>
 <p align="center">
-<a href="https://github.com/TheWhatsBot/WhatsBot/releases">
+<a href="https://github.com/UvinduBro/WhatsApp-Bot/releases">
     <img src="https://shields.io/badge/WHATSBOT-Version--1.5.0-red?logo=whatsapp&style=for-the-badge"
          alt="Version"></a><br>
-   <a href="https://github.com/TheWhatsBot/WhatsBot/wiki">
+   <a href="https://github.com/UvinduBro/WhatsApp-Bot/wiki">
  <img src="https://shields.io/badge/WIKI-red?style=for-the-badge"alt="Wiki"></a>
-  <a href="https://github.com/TheWhatsBot/WhatsBot/wiki/Demo">
+  <a href="https://github.com/UvinduBro/WhatsApp-Bot">
  <img src="https://shields.io/badge/DEMO-red?style=for-the-badge"alt="Demo"></a>
     <a href="#deploy-">
 <img src="https://shields.io/badge/DEPLOY-red?style=for-the-badge"alt="Deploy"></a>
@@ -21,8 +21,8 @@
  <img src="https://shields.io/badge/Inspiration-red?style=for-the-badge"alt="Inspiration"></a>
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
-    <a href="https://github.com/cachecleanerjeet">
-<img src="https://shields.io/badge/MADE WITH ♥ BY-TUHIN-red?style=for-the-badge"alt="Deploy"></a>
+    <a href="https://github.com/UvinduBro">
+<img src="https://shields.io/badge/MADE WITH ♥ BY-Uvindu Bro-red?style=for-the-badge"alt="Deploy"></a>
 </p>
 
 <br>
