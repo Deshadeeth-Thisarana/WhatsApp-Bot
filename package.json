@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TheWhatsBot/WhatsBot.git"
+        "url": "git+https://github.com/UvinduBro/WhatsApp-Bot.git"
     },
     "keywords": [
         "Whatsapp-Userbot",
@@ -18,9 +18,9 @@
     "author": "Tuhin Kanti Pal",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/TheWhatsBot/WhatsBot/issues"
+        "url": "https://github.com/UvinduBro/WhatsApp-Bot/issues"
     },
-    "homepage": "https://github.com/TheWhatsBot/WhatsBot#readme",
+    "homepage": "https://github.com/UvinduBro/WhatsApp-Bot#readme",
     "dependencies": {
         "@k3rn31p4nic/google-translate-api": "^1.1.1",
         "axios": "^0.21.0",
