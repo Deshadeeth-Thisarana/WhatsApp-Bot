@@ -54,14 +54,17 @@
 
 ### Deploy :
 [![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/UvinduBro/WhatsBot "Deploy with Heroku")<br>
-Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
-[Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
+
+
+Read the [wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
+
+
 
 ### Commands :
-*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands "Command's Wiki")*
+*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/wiki/Commands "Command's Wiki")*
 
 ### Develop :
-*You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Development), It is very easy if you know Javascript.*
+*You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/wiki/Development), It is very easy if you know Javascript.*
 
 ### How it works :
 - Opened whatsapp web in server using puppeteer
@@ -79,9 +82,12 @@ Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku)
 - [Weather API](https://github.com/cachecleanerjeet/weather-api "Weather API") - For Weather Module
 
 ### License & Copyright :
-- This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
+
+- This Project is [Apache-2.0](https://github.com/UvinduBro/WhatsApp-Bot/blob/main/LICENSE) Licensed
 - Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
+- Copyright 2021 by [UvinduBro](https://github.com/UvinduBro)
+
 
 ### Connect :
-- [Channel](https://telegram.dog/whatsbotnews)
-- [Support Group](https://telegram.dog/whatsbotsupport)
+
+
