@@ -61,7 +61,7 @@ Read the [wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/Deploy-with-Herok
 
 
 ### Commands :
-*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/wiki/Commands "Command's Wiki")*
+*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/Commands "Command's Wiki")*
 
 ### Develop :
 *You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/UvinduBro/WhatsApp-Bot/wiki/wiki/Development), It is very easy if you know Javascript.*
