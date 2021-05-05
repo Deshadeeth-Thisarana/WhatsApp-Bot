@@ -31,6 +31,8 @@ async function mainF(text) {
             return `*Urban Dictionary*\n\nUrban Dictionary is a crowdsourced online dictionary for slang words and phrases.\n\n*!ud [Word]*\nto search a word using Urban Dictionary`
         } else if (param == "sticker") {
             return `*Sticker*\n\nCreate sticker from Image.\n\nReply an image with *!sticker* to get a sticker of that image.`
+        } else if (param == "afk") {
+            return `*AFK*\n\nIt makes you AFK. *!afk* or *.afk* to make afkk`
         } else if (param == "git") {
             return `*Github*\n\nGet a github repository in zip format with it's details.\n\nSend a message with *!git [Github-Url]* to execute.`
         } else {
