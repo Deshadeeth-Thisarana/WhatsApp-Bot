@@ -16,6 +16,7 @@ const help = require('./modules/help');
 const translator = require('./modules/translator');
 const start = require('./modules/start');
 const ud = require('./modules/ud');
+const afk = require('./modules/afk');
 const gitinfo = require('./modules/git');
 
 const client = new Client({ puppeteer: { headless: true, args: ['--no-sandbox'] }, session: config.session });
@@ -315,7 +316,7 @@ client.on('disconnected', (reason) => {
 });
 
 app.get('/', (req, res) => {
-    res.send('<h1>This server is powered by Uvindu Bro 👻<br><a href="https://www.uvindubro.tk">Uvindu Bro Website</a><br<br>><a href="https://www.youtube.com/channel/UCBNsVUq2MLyxDSe62ljjWdQ">Subscribe YouTube Channel</a></h1>')
+    res.send('<h1>This server is powered by Uvindu Bro 👻<br><a href="https://www.uvindubro.tk">Uvindu Bro Website</a><br<br><a href="https://www.youtube.com/channel/UCBNsVUq2MLyxDSe62ljjWdQ">Subscribe YouTube Channel</a></h1>')
 })
 
 app.use('/public', express.static('public'), serveIndex('public', { 'icons': true })) // public directory will be publicly available
