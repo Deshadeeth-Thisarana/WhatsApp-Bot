@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/UvinduBro/WhatsApp-Bot"><img src="**https://telegra.ph/file/96ccad5945c18944c5f15.png**" alt="whatsbot" width="290"></a>
+  <a href="https://github.com/UvinduBro/WhatsApp-Bot"><img src="https://user-images.githubusercontent.com/79355885/117094809-6bbf8780-ad82-11eb-90d8-4ca2073b00b5.png" alt="whatsbot" width="290"></a>
   <br>
 <b>Whatsbot</b>
 </h1>
