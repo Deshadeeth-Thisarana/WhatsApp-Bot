@@ -7,8 +7,6 @@ WhatsAsena - Yusuf Usta
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 
-const Language = require('../language');
-const Lang = Language.getString('afk');
 
 var AFK = {
     isAfk: false,
